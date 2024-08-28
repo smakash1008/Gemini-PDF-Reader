@@ -1,1 +1,1 @@
-# Gemini-PDF-Reader
+# PDF-Reader-QA-Gemini
